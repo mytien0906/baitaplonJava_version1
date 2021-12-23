@@ -1,0 +1,21 @@
+1-1-1-1.0
+2-2-2-2.0
+3-3-3-3.0
+3-3-3-3.0
+2-2-2-2.0
+1-1-1-1.0
+1-asus-mau trang-500.0
+2-dell-mau den-1500.0
+3-macbook-mau vang-800.0
+1-asus-mau trang-500.0
+2-dell-mau den-1500.0
+3-macbook-mau vang-800.0
+2-dell-mau den-1500.0
+2-dell-mau den-1500.0
+3-macbook-mau vang-800.0
+3-macbook-mau vang-800.0
+1-asus-mau trang-500.0
+1-asus-mau trang-500.0
+3-3-3-3.0
+2-2-2-2.0
+2-2-2-2.0
